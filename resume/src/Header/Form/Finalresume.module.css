@@ -1,0 +1,47 @@
+.container{
+    border: 5px solid black;
+    /* align-items: center; */
+    display: flex;
+    flex-direction: column;
+}
+.personal{
+    border:1px solid black;
+    background-color: rgb(147, 147, 247);
+    text-align: center;
+}
+.Education{
+    border:1px solid black;
+    background-color: rgb(147, 147, 247);
+    text-align: center;
+}
+.Skills{
+    border:1px solid black;
+    background-color: rgb(147, 147, 247);
+    text-align: center;
+}
+.work{
+    border:1px solid black;
+    background-color: rgb(147, 147, 247);
+    text-align: center;
+}
+.projects{
+    border:1px solid black;
+    background-color: rgb(147, 147, 247);
+    text-align: center;
+}
+.achievement{
+    border:1px solid black;
+    background-color: rgb(147, 147, 247);
+    text-align: center;
+}
+.button{
+  max-width: 150px;   
+  border-radius:10px;
+  background-color: rgb(7, 7, 143);
+  color: white;
+  margin: auto;
+}
+.name{
+    text-align: center;
+    padding: 30px;
+}
